@@ -26,7 +26,6 @@ public class User implements Entity {
 		this.password = password;
 		
 	}
-
 	public int getId() {
 		return id;
 	}
